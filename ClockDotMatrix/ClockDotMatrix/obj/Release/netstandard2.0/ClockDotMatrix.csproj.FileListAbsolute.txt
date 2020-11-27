@@ -1,0 +1,13 @@
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\bin\Release\netstandard2.0\ClockDotMatrix.deps.json
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\bin\Release\netstandard2.0\ClockDotMatrix.dll
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\bin\Release\netstandard2.0\ref\ClockDotMatrix.dll
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\bin\Release\netstandard2.0\ClockDotMatrix.pdb
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\obj\Release\netstandard2.0\ClockDotMatrix.AssemblyInfoInputs.cache
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\obj\Release\netstandard2.0\ClockDotMatrix.AssemblyInfo.cs
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\obj\Release\netstandard2.0\ClockDotMatrix.csproj.CoreCompileInputs.cache
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\obj\Release\netstandard2.0\XamlC.stamp
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\obj\Release\netstandard2.0\ClockDotMatrix.dll
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\obj\Release\netstandard2.0\ref\ClockDotMatrix.dll
+C:\Projects\ClockDotMatrix\ClockDotMatrix\ClockDotMatrix\obj\Release\netstandard2.0\ClockDotMatrix.pdb
